@@ -1,0 +1,66 @@
+FTP: 20/21(TCP)
+
+#The File Transfer Protocol is a standard communication protocol used for 
+#the transfer of computer files from a server to a client on a computer network.
+
+SSH: 22(TCP)
+
+#The port is used for Secure Shell (SSH) communication and allows 
+#remote administration access to the VM. In general, traffic is encrypted using password authentication.
+
+Telnet: 23(TCP)
+
+#Telnet is a network protocol used to virtually access a computer and to provide a two-way, 
+#collaborative and text-based communication channel between two machines. It follows a user command Transmission Control 			     
+#Protocol/Internet Protocol (TCP/IP) networking protocol for creating remote sessions.
+
+SMTP: 25(TCP)
+
+#What is an SMTP port? SMTP (Simple Mail Transfer Protocol) is the basic standard that mail servers use to send 
+#email to one another across the internet. SMTP is also used by applications such as Apple Mail or Outlook to 		    
+#upload emails to mail servers that then relay them to other mail servers.
+
+HTTP: 80(TCP)
+
+#Port 80 is the port number assigned to commonly used internet communication protocol, 
+#Hypertext Transfer Protocol (HTTP). It is the default network port used to send and receive unencrypted web pages.
+
+SNMP: 161 (TCP/UDP)
+
+#An SNMP port is the SNMP communication endpoint. It is a logical construct that identifies SNMP data transfer. 
+#SNMP message transfer happens via UDP. The Transport Layer Security (TLS) or Datagram Transport Layer 			    
+#Security (DTLS) protocols are also used at times.
+
+LDAP: 389 (TCP/UDP)
+
+#The Lightweight Directory Access Protocol (LDAP /ˈɛldæp/) is an open, vendor-neutral, industry standard application 
+#protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network.
+
+SSL/TLS (HTTPS): 443(TCP)
+
+#HTTPS stands for HyperText Transfer Protocol Secure that is used to protect web browser communication. 
+#It secures the connection by encrypting the traffic transmitting over HTTPS port 443, protecting customer data in transit.
+
+SMB 445(TCP)
+
+#SMB is a network file sharing protocol that requires an open port on a computer or server to communicate 
+#with other systems. SMB ports are generally port numbers 139 and 445. Port 139 is used by SMB dialects that communicate over NetBIOS.
+
+RDP 3389(TCP)
+
+#Remote Desktop Protocol (RDP) is a Microsoft proprietary protocol that enables remote connections to other computers, 
+#typically over TCP port 3389. It provides network access for a remote user over an encrypted channel.
+
+
+
+  
+
+ 
+
+
+
+ 
+
+ 
+	
+	
